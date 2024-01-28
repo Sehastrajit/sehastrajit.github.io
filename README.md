@@ -1,6 +1,6 @@
 # Personal Portfolio 
 
-> https://sehas.github.io
+> https://Sehastrajit.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
